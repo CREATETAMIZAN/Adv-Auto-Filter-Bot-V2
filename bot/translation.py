@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Advance Auto Filter Bot Call Me CREATETAMILZAN 👊
 
-Just Type The Name of your Movie😁
+Join your Movie Request Group Just Type The Name of your Movie😁
 
 For More Details Click Help Button Below..
 @CREATE_TAMILZAN

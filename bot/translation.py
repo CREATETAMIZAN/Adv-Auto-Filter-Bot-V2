@@ -10,7 +10,7 @@ class Translation(object):
 Just Type The Name of your Movie😁
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@CREATE_TAMILZAN
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@CREATE_TAMILZAN
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>

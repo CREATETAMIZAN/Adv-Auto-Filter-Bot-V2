@@ -194,7 +194,7 @@ async def cb_settings(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "Configure 🛠", callback_data=f"config({chat_id})"
+                    "Configure", callback_data=f"config({chat_id})"
                 )
         ], 
         [
@@ -211,7 +211,7 @@ async def cb_settings(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close", callback_data="close"
                 )
         ]
     ]
@@ -337,7 +337,7 @@ async def cb_channel_list(bot, update: CallbackQuery):
             
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close", callback_data="close"
                 )
         ]
     ) 

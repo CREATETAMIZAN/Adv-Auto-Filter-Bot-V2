@@ -47,7 +47,7 @@ async def settings(bot, update):
         [
             InlineKeyboardButton
                 (
-                    "Configure 🛠", callback_data=f"config({chat_id})"
+                    "Configure", callback_data=f"config({chat_id})"
                 )
         ], 
         [
@@ -64,7 +64,7 @@ async def settings(bot, update):
         [
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close", callback_data="close"
                 )
         ]
     ]

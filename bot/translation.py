@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Advance Auto Filter Bot Call Me CREATETAMILZAN 👊
+<i>I Am Advance Auto Filter Bot Call Me CREATETAMILZAN 👊
 
 Join your Movie Request Group Just Type The Name of your Movie😁
 
@@ -48,11 +48,11 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>⭕ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>⭕ Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>⭕ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/CREATETAMIZAN/Adv-Auto-Filter-Bot-V2">Click Me</a></i>
+<b>⭕ Source Code</b> : <i><a href="https://github.com/CREATETAMIZAN/Adv-Auto-Filter-Bot-V2">Click Me</a></i>
 """

@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎗️ join 🎗️', url="https://t.me/CREATE_TAMILZAN"
+                                    '🎗️  join  🎗️', url="https://t.me/CREATE_TAMILZAN"
                                 )
                         ]
                     ]
@@ -47,12 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🎀 join 🎀', url='https://t.me/create_tamilan_tamil_movies'),
-        InlineKeyboardButton('🎀 join 🎀', url ='https://t.me/create_tamilan2')
-    ],[
-        InlineKeyboardButton('🎀 join 🎀', url='https://t.me/CREATE_TAMILZAN')
-    ],[
-        InlineKeyboardButton('🎀 join 🎀', url='https://t.me/create_tamilan_tamil_dubbed')
+        InlineKeyboardButton('🎗️  Join Your Channel  🎗️', url='https://t.me/create_tamilan_tamil_movies'),
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
